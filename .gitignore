@@ -1,0 +1,12 @@
+# Carpetas compiladas de NetBeans
+build/
+dist/
+nbproject/private/
+
+# Archivos de sistema y datos locales temporales
+*.class
+*.jar
+*.war
+*.ear
+.DS_Store
+Thumbs.db
